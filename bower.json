@@ -1,0 +1,20 @@
+{
+  "name": "bower-demo-egpc",
+  "authors": [
+    "edgargregori <edgar.gregori.eg@gmail.com>"
+  ],
+  "description": "Boower demo",
+  "main": "",
+  "keywords": [
+    "demo"
+  ],
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
